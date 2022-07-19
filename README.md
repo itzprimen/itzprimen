@@ -13,7 +13,7 @@
 }
 
 .Front-End {
-  Code Editor: VS Code, Atom;
+  Code Editors: VS Code, Atom;
   Browser: Firefox;
   Design: Adobe XD, Adobe Illustrator;
   Languages: HTML, CSS (SCSS), JavaScript (React);
@@ -21,6 +21,6 @@
 
 .Desktop {
   IDE: Visual Studio 2022;
-  Languages: C#;
+  Language: C#;
 }
 ```
